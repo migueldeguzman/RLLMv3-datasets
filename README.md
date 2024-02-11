@@ -1,4 +1,4 @@
-# RLLMv3 Dataset for Jailbreak Experiment README
+# RLLMv3 Dataset for Jailbreak Experiment
 
 This repository contains the dataset used in the experimental project focused on addressing the alignment problem in language models, specifically through the development and testing of the BetterDAN Jailbreak method against various state-of-the-art (SOTA) language models, including GPT2XL. The project highlights the effectiveness of the BetterDAN Jailbreak in eliciting harmful responses from these models and introduces a potential solution via a modified GPT2XL model (GPT2XL_RLLMv3) that demonstrates an average resistance rate of 67.8% against jailbreak attempts. This solution involves "Layered Morphology," a training approach aimed at aligning language models more closely with human values.
 

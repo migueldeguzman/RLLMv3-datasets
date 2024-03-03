@@ -14,6 +14,9 @@ This repository contains content that many may find harmful or offensive. Reader
 - **Layered Morphology and RLLM**: An introduction to Reinforcement Learning with Layered Morphology (RLLM) and its role in improving model resilience.
 
 
+For more information, feel free to browse the [this Visual Map.](https://whimsical.com/the-rllm-wireframe-QQvFHNr6aVDdXRUnyb5NCu)
+
+
 ## Contributions and Feedback
 I extend my apologies to all AI labs and owners of language models affected in the process of this research. The exploration of alignment problems in AI is a critical area of study, and your understanding of the motivations behind these experiments is greatly appreciated. Your contributions and feedback are welcome, especially in discussions about improving ethical behavior and defenses against jailbreaks in language models.
 
